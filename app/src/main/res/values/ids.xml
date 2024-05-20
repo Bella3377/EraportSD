@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView3" type="id" />
+    <item name="textView" type="id" />
+    <item name="textView2" type="id" />
+    <item name="loginText" type="id" />
+    <item name="username" type="id" />
+    <item name="password" type="id" />
+    <item name="btnlogin" type="id" />
+</resources>
